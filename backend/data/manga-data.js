@@ -8,7 +8,7 @@ const mangas = [
       On her way to meet her husband she is picked up by an easily bored old woman and her servant, \
        and a mysterious alchemist. What adventures will Skyla face?",
     thumbnail: "https://cdn.myanimelist.net/images/manga/3/36890.jpg",
-    genre: ["Romance", "Historical", "Fantasy"],
+    genres: ["Romance", "Historical", "Fantasy"],
     ratings: "",
   },
   {
@@ -19,7 +19,7 @@ const mangas = [
       "Yvienne Magnolia lives in a small village and her beauty turns the villagers heads, yet she would never have imagined the grand future destined for her. \
        Because when a count tries to kidnap her, Yvienne flees to the Lowood Institution for wizardry and witchcraft, forced to leave her family behind.",
     thumbnail: "https://cdn.mangaupdates.com/image/i239563.png",
-    genre: ["Romance", "Historical", "Fantasy"],
+    genres: ["Romance", "Historical", "Fantasy"],
     ratings: "",
   },
   {
@@ -32,7 +32,7 @@ const mangas = [
       Little did she know, the mage harbors a secret love for her that will only complicate her training for the upcoming apocalyptic battle. \
       This sets up the most unusual love triangle of all space and time.",
     thumbnail: "https://static.tvtropes.org/pmwiki/pub/images/880.jpg",
-    genre: ["Romance", "Mature", "Fantasy"],
+    genres: ["Romance", "Mature", "Fantasy"],
     ratings: "",
   },
   {
@@ -44,7 +44,7 @@ const mangas = [
       as a romance blooms between the beautiful Evyione and a dashing young merman. It's a unique twist on a timeless tale that is sure to leave you spellbound.",
     thumbnail:
       "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348532948i/3021407.jpg",
-    genre: ["Romance", "Mature", "Fantasy"],
+    genres: ["Romance", "Mature", "Fantasy"],
     ratings: "",
   },
   {
@@ -58,7 +58,7 @@ const mangas = [
         new life awaits her! Most surprising, however, is the Water God himself... and how very different he is from the monster Soah imagined.",
     thumbnail:
       "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330556420i/6523876.jpg",
-    genre: ["Romance", "Historical", "Fantasy"],
+    genres: ["Romance", "Historical", "Fantasy"],
     ratings: "",
   },
   {
@@ -71,7 +71,7 @@ const mangas = [
        and a strong desire to match, but she is always overshadowed by June. Will petty jealousies, love triangles, and one cute boy interfere with the Queen's royal duty?!",
     thumbnail:
       "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348530574i/194044.jpg",
-    genre: ["Romance", "Tragedy", "Fantasy"],
+    genres: ["Romance", "Tragedy", "Fantasy"],
     ratings: "",
   },
   {
@@ -84,7 +84,7 @@ const mangas = [
        including getting off on the wrong start with a rich boy named Adrian.",
     thumbnail:
       "https://www.animeclick.it/images/manga/DearMyGirls/DearMyGirls1.jpg",
-    genre: ["Romance", "Historical", "Drama"],
+    genres: ["Romance", "Historical", "Drama"],
     ratings: "",
   },
   {
@@ -98,7 +98,7 @@ const mangas = [
        she finds herself in a strange kingdom...and learns that she may be its only hope. Now Lena, disguised as a male, is ready for many adventures.",
     thumbnail:
       "https://pictures.abebooks.com/isbn/9781598165142-us.jpg",
-    genre: ["Gender Bender", "Historical", "Fantasy"],
+    genres: ["Gender Bender", "Historical", "Fantasy"],
     ratings: "",
   },
   {
@@ -111,7 +111,7 @@ const mangas = [
        time in her newest movie! Will her path to becoming a star come true?",
     thumbnail:
       "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1733811546i/222422726.jpg",
-    genre: ["Romance", "Shoujo", "Drama"],
+    genres: ["Romance", "Shoujo", "Drama"],
     ratings: "",
   },
 ];
