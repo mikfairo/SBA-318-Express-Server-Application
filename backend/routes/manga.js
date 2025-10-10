@@ -6,15 +6,14 @@ const mangaRoute = express.Router();
 mangaRoute.get("/get-all-data", (req, res) => {
   return res.json(mangas);
 });
-mangaRoute.post("/", (req, res) => {
-    console.log(req.body);
+mangaRoute.post("/find-books-by-genre", (req, res) => {
+  console.log(req.body);
   const mangasThatMatchesGenre = [];
 
-  for (const manga of mangas) {
-    for (const genre of manga.genres) {
-    
+  for (const manga of mangas) { //each manga of mangas array
+    for (const genre of manga.genres) { //each genre of each manga genres 
       if (req.body.genre === genre) {
-        mangasThatMatchesGenre.push(manga);
+        mangasThatMatchesGenre.push(manga); 
       }
     }
   }
