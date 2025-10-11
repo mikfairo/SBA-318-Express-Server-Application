@@ -1,4 +1,4 @@
-const mangas = [
+let mangas = [
   {
     id: 1,
     title: "Absolute Witch",
