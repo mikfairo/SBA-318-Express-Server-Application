@@ -1,0 +1,22 @@
+#manga-data {
+  display: flex;
+  flex-direction: column;
+}
+
+.thumbnail {
+  width: 150px;
+}
+
+#manga-text-div {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 500px;
+}
+
+#manga-div { 
+  display: flex;
+  flex-direction: row;
+  text-align: right;
+  margin: 25px;
+}
